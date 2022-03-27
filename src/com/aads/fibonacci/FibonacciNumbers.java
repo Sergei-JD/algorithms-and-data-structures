@@ -13,7 +13,7 @@ public class FibonacciNumbers {
         System.out.println(fibNaive(n, mem));
     }
 
-    //naive (not effective)
+    //naive (not effective O(2^n))
     private static long fibNaive(int n, long[] mem) {
         if (mem[n] != -1)
             return mem[n];
@@ -26,7 +26,7 @@ public class FibonacciNumbers {
         return result;
     }
 
-    //effective
+    //effective O(n)
     private static long fibEffective(int n) {
         long[] arr = new long[n + 1];
 
