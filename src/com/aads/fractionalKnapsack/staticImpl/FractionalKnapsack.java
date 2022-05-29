@@ -1,4 +1,4 @@
-package com.aads.fractionalKnapsack;
+package com.aads.fractionalKnapsack.staticImpl;
 
 import java.util.Arrays;
 import java.util.Comparator;
