@@ -1,4 +1,4 @@
-package com.aads.binarysaerch;
+package com.aads.search.binarySaerch;
 
 public class BinarySearch {
 

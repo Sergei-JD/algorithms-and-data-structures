@@ -1,4 +1,4 @@
-package com.aads.sort.minTwoElementInArray;
+package com.aads.search.minTwoElementInArray;
 
 public class minTwoElementInArray {
 

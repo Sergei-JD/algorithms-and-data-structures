@@ -1,4 +1,4 @@
-package com.aads.sort.minElementInArray;
+package com.aads.search.minElementInArray;
 
 public class AlgorithmToFindMinimumElementInArray {
 

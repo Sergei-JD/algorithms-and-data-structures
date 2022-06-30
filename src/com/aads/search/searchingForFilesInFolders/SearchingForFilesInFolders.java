@@ -1,4 +1,4 @@
-package com.aads.searchingForFilesInFolders;
+package com.aads.search.searchingForFilesInFolders;
 
 import java.io.File;
 import java.util.ArrayList;

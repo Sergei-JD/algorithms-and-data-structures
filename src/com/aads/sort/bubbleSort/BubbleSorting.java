@@ -1,4 +1,4 @@
-package com.aads.sort.bubbleSorting;
+package com.aads.sort.bubbleSort;
 
 public class BubbleSorting {
 
