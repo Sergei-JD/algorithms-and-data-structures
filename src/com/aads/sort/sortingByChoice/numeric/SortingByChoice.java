@@ -1,4 +1,4 @@
-package com.aads.sort.sortingByChoice;
+package com.aads.sort.sortingByChoice.numeric;
 
 public class SortingByChoice {
 
