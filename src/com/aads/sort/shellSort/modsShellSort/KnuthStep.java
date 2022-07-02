@@ -4,7 +4,7 @@ class KnuthStep implements StepGenerator {
     private int i;
 
     public KnuthStep(int[] array) {
-        for (; (Math.pow(3, i) - 1) / 2 < array.length / 3;) {
+        while ((Math.pow(3, i) - 1) / 2 < array.length / 3) {
             i = i + 1;
         }
     }

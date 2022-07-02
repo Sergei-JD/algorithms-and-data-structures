@@ -4,7 +4,7 @@ class HibbardStep implements StepGenerator {
     private int i;
 
     public HibbardStep(int[] array) {
-        for (; (int) (Math.pow(2, i) - 1) < array.length;) {
+        while ((int) (Math.pow(2, i) - 1) < array.length) {
             i += 1;
         }
     }

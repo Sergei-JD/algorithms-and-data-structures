@@ -6,9 +6,9 @@ public class ModifiedShellSort {
 
     public static void main(String[] args) {
         int[] array = new int[] { 5, 0, -2, 7, 3 };
-        System.out.println(Arrays.toString(array));
+        System.out.println("Source: " + Arrays.toString(array));
         shellSort(array, new KnuthStep(array));
-        System.out.println(Arrays.toString(array));
+        System.out.println("Result: " + Arrays.toString(array));
 
     }
 

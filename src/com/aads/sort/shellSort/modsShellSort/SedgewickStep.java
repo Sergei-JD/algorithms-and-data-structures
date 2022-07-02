@@ -5,7 +5,7 @@ class SedgewickStep implements StepGenerator {
 
     public SedgewickStep(int[] array) {
         long number = (long) (9 * (Math.pow(2, i) - Math.pow(2, i / 2)) + 1);
-        for (; number < array.length;) {
+        while (number < array.length) {
             i += 1;
             if (i % 2 == 0) {
                 number = (long) (9 * (Math.pow(2, i) - Math.pow(2, i / 2)) + 1);
