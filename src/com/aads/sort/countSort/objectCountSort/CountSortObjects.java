@@ -1,4 +1,4 @@
-package com.aads.sort.countSort;
+package com.aads.sort.countSort.objectCountSort;
 
 import java.util.ArrayList;
 import java.util.List;

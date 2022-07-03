@@ -1,4 +1,4 @@
-package com.aads.sort.countSort;
+package com.aads.sort.countSort.primitiveCountSort;
 
 import java.util.Arrays;
 
