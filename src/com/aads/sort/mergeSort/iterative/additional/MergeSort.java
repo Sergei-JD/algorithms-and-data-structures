@@ -1,4 +1,4 @@
-package com.aads.sort.mergeSort.iterative.digits.first;
+package com.aads.sort.mergeSort.iterative.additional;
 
 public class MergeSort {
 

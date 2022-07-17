@@ -1,4 +1,4 @@
-package com.aads.sort.mergeSort.iterative.digits.second;
+package com.aads.sort.mergeSort.iterative.digits;
 
 import java.util.Arrays;
 

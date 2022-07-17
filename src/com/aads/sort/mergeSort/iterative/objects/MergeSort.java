@@ -1,4 +1,4 @@
-package com.aads.sort.mergeSort.iterative.digits.objects;
+package com.aads.sort.mergeSort.iterative.objects;
 
 import java.util.Arrays;
 import java.util.Comparator;
