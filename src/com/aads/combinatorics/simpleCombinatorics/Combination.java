@@ -1,4 +1,4 @@
-package com.aads.combination;
+package com.aads.combinatorics.simpleCombinatorics;
 
 public class Combination {
 
