@@ -1,4 +1,4 @@
-package com.aads.combinatorics.Naraiana;
+package com.aads.combinatorics.naraiana;
 
 import java.util.Arrays;
 
