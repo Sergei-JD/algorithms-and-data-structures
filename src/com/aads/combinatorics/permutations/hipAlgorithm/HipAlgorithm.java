@@ -1,4 +1,4 @@
-package com.aads.combinatorics.hipAlgorithm;
+package com.aads.combinatorics.permutations.hipAlgorithm;
 
 import java.util.Arrays;
 

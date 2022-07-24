@@ -1,4 +1,4 @@
-package com.aads.combinatorics.cyclicShifts;
+package com.aads.combinatorics.permutations.cyclicShifts;
 
 import java.util.Arrays;
 

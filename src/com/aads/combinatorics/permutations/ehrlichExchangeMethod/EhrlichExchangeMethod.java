@@ -1,4 +1,4 @@
-package com.aads.combinatorics.ehrlichExchangeMethod;
+package com.aads.combinatorics.permutations.ehrlichExchangeMethod;
 
 import java.util.Arrays;
 

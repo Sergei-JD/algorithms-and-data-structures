@@ -1,4 +1,4 @@
-package com.aads.combinatorics.johnsonaTrottera;
+package com.aads.combinatorics.permutations.johnsonaTrottera;
 
 import java.util.Arrays;
 
